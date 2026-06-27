@@ -1,0 +1,28 @@
+# Secret keys - never upload these
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+venv/
+env/
+
+# Large data files
+data/raw/
+*.csv
+*.xlsx
+
+# ChromaDB database
+chroma_db/
+
+# Mac system files
+.DS_Store
+
+# Node modules
+node_modules/
+
+# Build files
+dist/
+build/
