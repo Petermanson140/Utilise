@@ -42,7 +42,7 @@ utilize/
 3. Can the RAG pipeline achieve RAGAS faithfulness above 0.80?
 
 ## Supervisor
-[Your supervisor's name]
+DR Barbara Villarini
 
 ## Submission Date
 3 September 2026
