@@ -40,7 +40,7 @@ utilize/
 3. Can the RAG pipeline achieve RAGAS confidence score of above 0.80?
 
 ## Supervisor of MSc Utilize Project
-DR Barbara Villarini
+Dr. Barbara Villarini
 
 ## Official Submission Date of Utilize
 3rd September 2026
