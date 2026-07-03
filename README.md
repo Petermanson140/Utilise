@@ -1,12 +1,11 @@
-# Utilize
-### An AI-Driven Personalised London Household Bill Savings Advisor
+# Utilise
+### An AI-Driven Personalised Household Bills Saving Advisor for Citizens of London
 
 MSc Applied AI | Peter Kyan Win Manson | Student ID: 21764040 | September 2026
 
 ## What It Does
-Utilize helps London households save money on electricity, gas, and water 
-bills through personalised, weather-aware AI recommendations shown in 
-pounds per month and annually.
+Utilise helps citizens of London households save money on the three main household bills which are electricity, gas, and water through personalised, live weather-aware AI recommendations shown in 
+great british pounds every month and annually.
 
 ## Live URL
 
@@ -26,7 +25,7 @@ pounds per month and annually.
 | Deployment | Docker + Render |
 
 ## Project Structure
-utilize/
+utilise/
 ├── backend/          # FastAPI backend
 ├── frontend/         # React frontend
 ├── data/             # Datasets and synthetic profiles
@@ -35,12 +34,12 @@ utilize/
 └── README.md
 
 ##  3 Research Questions
-1. Does integrating live weather data improve the accuracy of savings recommendations?
+1. Does integrating live weather data improve the accuracy of saving recommendations?
 2. Which household factors are the best predictions for high energy bills?
 3. Can the RAG pipeline achieve RAGAS confidence score of above 0.80?
 
 ## Supervisor of MSc Utilize Project
 Dr. Barbara Villarini
 
-## Official Submission Date of Utilize
+## Official Submission Date of Utilise
 3rd September 2026
