@@ -1,9 +1,9 @@
 # Utilise
-### An AI-Driven Personalised Household Bills Saving Advisor for Citizens of London
+### An AI-Driven Personalised Bill Savings Advisor for London Households
 
 MSc Applied AI | Peter Kyan Win Manson | Student ID: 21764040 | September 2026
 
-## What It Does
+## What Utilise Does
 Utilise helps citizens of London households save money on the three main household bills which are electricity, gas, and water through personalised, live weather-aware AI recommendations shown in 
 great british pounds every month and annually.
 
