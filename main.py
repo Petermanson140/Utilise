@@ -2,6 +2,7 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from dotenv import load_dotenv
 from create_database import create_tables
+from household_bills import router as household_bills_router
 import os
 
 # Load environment variables from .env file
@@ -46,3 +47,5 @@ def health_check():
         "status": "healthy",
         "app": "Utilize"
     }
+# Include bill routes
+app.include_router(household_bills_router, prefix="/api", tags=["Household Bills"])
