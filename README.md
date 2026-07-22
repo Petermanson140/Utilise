@@ -39,7 +39,7 @@ utilise/
 2. Which household factors are the best predictions for high energy bills?
 3. Can the RAG pipeline achieve RAGAS confidence score of above 0.80?
 
-## Supervisor of MSc Utilize Project
+## Supervisor of MSc Utilise Project
 Dr. Barbara Villarini
 
 ## Official Submission Date of Utilise
