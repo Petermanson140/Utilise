@@ -1,7 +1,8 @@
 # Utilise
-### An AI-Driven Personalised Bill Savings Advisor for London Households
+### An AI-Driven Personalised Electricity, Gas and Water Bill Savings Advisor for London Households
 
-MSc Applied AI | Peter Kyan Win Manson | Student ID: 21764040 | September 2026
+
+Master of Science in Applied Artificial Intelligence | Peter Kyan Win Manson | Student ID: 21764040 | September 2025 - September 2026
 
 ## What Utilise Does
 Utilise helps citizens of London households save money on the three main household bills which are electricity, gas, and water through personalised, live weather-aware AI recommendations shown in 
@@ -15,13 +16,13 @@ great british pounds every month and annually.
 |---|---|
 | Frontend | React + Tailwind CSS |
 | Backend | FastAPI (Python) |
-| LLM | Claude API (Anthropic) |
+| LLM | Groq (llama |
 | RAG | LangChain + ChromaDB |
 | Embeddings | all-MiniLM-L6-v2 |
-| Weather | Open-Meteo + Met Office DataPoint |
+| Weather |
 | Forecasting | Meta Prophet |
 | Evaluation | RAGAS |
-| Database | PostgreSQL |
+| Database | SqlLite|
 | Deployment | Docker + Render |
 
 ## Project Structure
