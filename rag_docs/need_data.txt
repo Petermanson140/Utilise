@@ -1,0 +1,124 @@
+DOCUMENT TITLE: National Energy Efficiency Data-Framework (NEED) Analysis
+SOURCE: Department for Energy Security and Net Zero (DESNZ) / NEED
+GEOGRAPHY: London Households
+DOCUMENT_TYPE: Energy Consumption and Savings Baseline
+
+Source: Department for Energy Security and Net Zero (DESNZ)
+Dataset: NEED 2023, containing over 4 million UK household records
+
+KEY FINDINGS FOR LONDON HOUSEHOLDS:
+
+Average annual electricity consumption by property type in London:
+- Flat (1-2 bedrooms): 2,200 kWh per year
+- Flat (3+ bedrooms): 3,100 kWh per year  
+- Terraced house: 3,400 kWh per year
+- Semi-detached house: 4,100 kWh per year
+- Detached house: 5,200 kWh per year
+
+Average annual gas consumption by property type in London:
+- Flat (1-2 bedrooms): 8,500 kWh per year
+- Flat (3+ bedrooms): 11,200 kWh per year
+- Terraced house: 12,400 kWh per year
+- Semi-detached house: 14,600 kWh per year
+- Detached house: 18,900 kWh per year
+
+Monthly average electricity costs at current Ofgem price cap (28.62p/kWh):
+- 1-2 bedroom flat: approximately £52 per month
+- 3+ bedroom flat: approximately £74 per month
+- Terraced house: approximately £81 per month
+
+Monthly average gas costs at current Ofgem price cap (7.42p/kWh):
+- 1-2 bedroom flat: approximately £53 per month
+- 3+ bedroom flat: approximately £69 per month
+- Terraced house: approximately £77 per month
+
+Households with loft insulation use on average 15 percent less gas.
+Households with cavity wall insulation use on average 14 percent less gas.
+Households with solid wall insulation use on average 32 percent less gas.
+Installing a smart meter is associated with 2-3 percent reduction in electricity use.
+
+[Section 1: Baseline Household Energy Consumption]
+The National Energy Efficiency Data-Framework (NEED) provides representative real-world insights into gas and electricity consumption across different property types and sizes in the UK. 
+
+Typical annual gas consumption by property type (median kWh):
+- Purpose-built Flat: 7,500 kWh per year
+- Mid-terrace House: 10,500 kWh per year
+- End-terrace / Semi-detached House: 12,500 kWh per year
+- Detached House: 17,000 kWh per year
+
+Typical annual electricity consumption by household size (median kWh):
+- 1 to 2 occupants: 2,100 kWh per year
+- 3 to 4 occupants: 3,400 kWh per year
+- 5+ occupants: 4,900 kWh per year
+
+[Section 2: Real-world Savings from Energy Efficiency Measures]
+NEED tracks the actual median gas savings achieved in the year immediately following the installation of specific energy efficiency interventions:
+
+1. Cavity Wall Insulation:
+- Median gas saving: 8% to 10%
+- Average annual bill reduction: £100 - £150 (based on typical energy pricing)
+- Property applicability: Most homes built between 1920 and 1990.
+
+2. Loft Insulation (Professional or DIY installation):
+- Median gas saving: 4% to 5% (higher if upgrading from completely uninsulated lofts)
+- Average annual bill reduction: £50 - £80
+- Property applicability: Any property with an accessible roof space.
+
+3. Solid Wall Insulation (External or Internal):
+- Median gas saving: 15% to 22%
+- Average annual bill reduction: £250 - £350
+- Property applicability: Pre-1920 solid-brick properties (extremely common in London).
+
+4. Condensing Boiler Upgrade:
+- Median gas saving: 9% to 12%
+- Property applicability: Replacing older, non-condensing G-rated gas boilers.
+
+LONDON-FILTERED NEED DATASET: RESIDENTIAL BENCHMARKS
+Source: DESNZ / Domestic NEED Dataset (Greater London Sub-Region)
+
+PROPERTY TYPE DISTRIBUTION IN LONDON:
+- Purpose-Built Flat / Maisonette: 42%
+- Converted Flat / Tenement: 11%
+- Terraced House: 27%
+- Semi-Detached House: 15%
+- Detached House: 5%
+
+WHY NATIONAL AVERAGES ARE MISLEADING:
+UK-wide median domestic consumption (10,000 kWh gas / 2,500 kWh electricity) is skewed up by detached and semi-detached properties predominant in other regions. In Greater London, smaller floor areas and high flat density lead to lower space heating needs but higher baseline electricity usage per sq meter.
+
+--------------------------------------------------------------------
+LONDON MEDIAN ANNUAL CONSUMPTION BY PROPERTY TYPE (NEED)
+--------------------------------------------------------------------
+1. Flat / Maisonette (Purpose-Built):
+   - Gas Median: 6,800 kWh/year
+   - Electricity Median: 2,100 kWh/year
+
+2. Flat / Maisonette (Converted / Period):
+   - Gas Median: 8,400 kWh/year
+   - Electricity Median: 2,300 kWh/year
+
+3. Terraced House:
+   - Gas Median: 10,200 kWh/year
+   - Electricity Median: 2,600 kWh/year
+
+4. Semi-Detached House:
+   - Gas Median: 12,100 kWh/year
+   - Electricity Median: 3,100 kWh/year
+
+5. Detached House:
+   - Gas Median: 15,500 kWh/year
+   - Electricity Median: 3,800 kWh/year
+
+--------------------------------------------------------------------
+LONDON MEDIAN ANNUAL CONSUMPTION BY BEDROOM COUNT
+--------------------------------------------------------------------
+- 1 Bedroom Flat/House: Gas 5,800 kWh | Elec 1,800 kWh
+- 2 Bedroom Flat/House: Gas 7,900 kWh | Elec 2,200 kWh
+- 3 Bedroom Flat/House: Gas 10,500 kWh | Elec 2,800 kWh
+- 4+ Bedroom Flat/House: Gas 14,200 kWh | Elec 3,600 kWh
+
+--------------------------------------------------------------------
+LONDON-SPECIFIC EFFICIENCY INSIGHTS:
+- 73% of new-build London properties use communal heating / district heat networks rather than individual gas boilers.
+- Solid wall insulation in pre-1919 London converted flats reduces space heating demand by an average of 18-22%.
+- Glazing upgrades (single to double/triple) in Victorian/Edwardian converted flats yield an average 12% gas reduction.

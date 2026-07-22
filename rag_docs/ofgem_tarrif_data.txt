@@ -1,0 +1,54 @@
+Source: Ofgem (Office of Gas and Electricity Markets)
+Updated: Q3 2025
+
+CURRENT PRICE CAP UNIT RATES (England, Scotland and Wales):
+
+Electricity:
+- Unit rate: 24.50p per kWh
+- Standing charge: 61p per day
+- Average annual electricity cost for typical household: £738 per year
+
+Gas:
+- Unit rate: 6.24p per kWh  
+- Standing charge: 31p per day
+- Average annual gas cost for typical household: £1,040 per year
+
+Combined average annual energy bill: £1,738 per year
+
+SAVINGS CALCULATIONS BASED ON OFGEM DATA:
+
+Switching from standard variable tariff to cheapest fixed tariff:
+- Average saving: £150-£300 per year depending on usage
+
+Installing smart meter:
+- Average electricity saving: 2-3 percent (approximately £15-22 per year)
+- Average gas saving: 2.2 percent (approximately £23 per year)
+
+Energy efficiency improvements:
+- Loft insulation: saves approximately £310 per year for a detached house
+- Cavity wall insulation: saves approximately £210 per year for a detached house
+- Smart thermostat: saves approximately £120 per year
+- LED lighting throughout: saves approximately £55 per year
+
+Water saving:
+- Average water bill in London: £467 per year (Thames Water)
+- Installing water efficient showerhead: saves approximately £70 per year
+- Fixing a dripping tap: saves approximately £18 per year
+- Using dishwasher instead of hand washing: saves approximately £28 per year
+
+SCHEMES AND GRANTS:
+
+Warm Home Discount:
+- £150 one-off discount on electricity bill
+- Available to households receiving Pension Credit or on low income
+- Applied automatically for most eligible households
+
+ECO4 Scheme:
+- Free insulation and low carbon heating for eligible households
+- Available to households receiving certain benefits
+- Also available to households in low energy efficiency homes referred by local council
+
+Great British Insulation Scheme:
+- Free insulation for homes with EPC rating D or below
+- Household income below £36,000 or in Council Tax bands A-D
+- Covers loft insulation cavity wall insulation and solid wall insulation

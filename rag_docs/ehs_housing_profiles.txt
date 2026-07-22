@@ -1,0 +1,61 @@
+DOCUMENT TITLE: English Housing Survey (EHS) Stock Profiles
+SOURCE: Ministry of Housing, Communities & Local Government
+GEOGRAPHY: England / Focus on London Tenure and Housing Demographics
+DOCUMENT_TYPE: Housing Stock and Energy Performance Profiles
+
+KEY FINDINGS FOR LONDON HOUSING:
+
+Property types in London:
+- 58 percent of London homes are flats or maisonettes
+- 24 percent are terraced houses
+- 11 percent are semi-detached houses
+- 7 percent are detached houses
+
+Tenure in London:
+- 27 percent owner occupied
+- 29 percent social rented
+- 44 percent private rented
+
+This is significantly different from England as a whole where 63 percent are owner occupied.
+
+Energy efficiency in London:
+- Average EPC rating in London: D (57 SAP points)
+- Only 32 percent of London homes have an EPC rating of C or above
+- Private rented sector has the lowest average EPC ratings
+
+Age of housing stock in London:
+- 22 percent of London homes were built before 1919
+- 31 percent were built between 1919 and 1964
+- Older homes are significantly less energy efficient
+
+Insulation in London:
+- 58 percent of London homes have loft insulation
+- 45 percent have cavity wall insulation
+- Only 4 percent have solid wall insulation despite 38 percent of homes having solid walls
+
+Fuel poverty in London:
+- 12 percent of London households are in fuel poverty
+- Private renters in larger properties face the highest risk
+- Households with low income and poor energy efficiency are most affected
+
+Available schemes for London households:
+- Warm Home Discount — £150 credit for eligible households
+- ECO4 — free insulation and heating improvements for low income households
+- Great British Insulation Scheme — free insulation for eligible households
+- Mayor of London Warmer Homes — additional London specific support
+- Thames Water WaterSure — capped water bills for eligible customers
+
+[Section 1: Tenure and Energy Performance (EPC) Ratings]
+The English Housing Survey (EHS) tracks the energy efficiency of the housing stock across different tenure types (owner-occupied, private rented, and social rented). 
+
+Key findings reveal a stark contrast in EPC bands:
+- Private Rented Sector (PRS): 
+Typically has the lowest Energy Performance Certificate (EPC) profiles of all tenures. Over 50% of privately rented properties fall into EPC Band D or lower. Renters in this sector face "split incentives," where landlords are responsible for insulation and upgrade costs but do not pay the monthly energy bills, leading to under-insulated homes.
+- Social Housing / Local Authority:
+This sector has the highest average EPC bands (frequently Band C) due to systematic, government-backed local council retrofit schemes and social housing decarbonisation funds.
+- Owner-Occupied Homes:
+Represents the largest block of housing stock. While homeowners are highly likely to invest in double-glazing (currently an 87% penetration rate), they frequently neglect loft, floor, or wall insulation due to high upfront capital costs and lack of immediate incentives.
+
+[Section 2: Property Age and Solid Walls]
+- Homes built before 1919 are the most difficult to heat. Approximately 85% of these older homes have solid brick walls rather than cavity walls. 
+- Retrofitting solid walls with internal or external insulation is highly effective but disruptive, whereas homes built post-1944 are much more likely to have cavity walls that are easier and cheaper to insulate.

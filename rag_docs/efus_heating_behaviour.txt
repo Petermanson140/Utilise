@@ -1,0 +1,60 @@
+DOCUMENT TITLE: Energy Follow-Up Survey (EFUS) Heating and Water Behaviour
+SOURCE: Department for Energy Security and Net Zero (DESNZ) / BRE Group
+GEOGRAPHY: United Kingdom Households
+DOCUMENT_TYPE: Household Energy Habits and Behavioral Analysis
+
+Source: Department of Energy and Climate Change / UK Data Service
+Survey: EFUS 2011 — most comprehensive UK household energy behaviour survey
+
+KEY FINDINGS ON HEATING BEHAVIOUR:
+
+The average UK household heats their home to 18 degrees Celsius in the living room.
+Reducing thermostat by 1 degree saves approximately £145 per year on heating bills.
+Reducing thermostat by 2 degrees saves approximately £290 per year on heating bills.
+
+Heating patterns:
+- 40 percent of households heat their home all day when someone is at home
+- 35 percent use a timer to heat only morning and evening
+- 25 percent heat only when they feel cold
+
+Households that use a timer or programmer save on average £75 per year compared to heating all day.
+Households that use a smart thermostat save on average £120 per year.
+
+Hot water heating accounts for approximately 16 percent of energy bills.
+Reducing shower time by 1 minute per day saves approximately £7 per year per person.
+Replacing a bath with a shower saves approximately £20 per year.
+Fixing a dripping hot tap saves approximately £18 per year.
+
+Draught proofing:
+- Draught proofing windows and doors saves approximately £45 per year.
+- Fitting a draught excluder to a letterbox saves approximately £15 per year.
+
+Appliance behaviour:
+- Turning off appliances from standby saves approximately £35 per year.
+- Using a washing machine at 30 degrees instead of 40 saves approximately £28 per year.
+- Running a full dishwasher instead of half loads saves approximately £14 per year.
+- Switching to LED lighting saves approximately £55 per year.
+
+London specific:
+- London households spend on average 8 percent more on energy than the UK average due to higher property prices and older housing stock.
+- 58 percent of London households live in flats compared to 20 percent nationally.
+- London flats typically have lower heating costs but higher electricity costs than houses.
+
+[Section 1: Space Heating and Thermostat Behaviour]
+The Energy Follow-Up Survey (EFUS) monitors how UK residents actually interact with their heating systems, providing highly actionable insights for behavioral adjustments:
+
+1. Thermostat Settings:
+- The average winter thermostat setting in UK living rooms is 20°C.
+- Turning the thermostat down by just 1°C (from 20°C to 19°C) reduces space heating gas consumption by approximately 10%. For a typical mid-terrace house, this equates to an average annual saving of £80 to £120.
+
+2. Heating Season Patterns:
+- The typical winter heating pattern is a "twice-a-day" timer schedule: 2 hours of heat in the morning and 5 to 7 hours of heat in the evening.
+- Over 70% of households keep their heating on even when rooms are unoccupied. Switching to "on-demand" heating or programming zone-specific Thermostatic Radiator Valves (TRVs) saves up to 15% on heating distribution losses.
+
+[Section 2: Domestic Hot Water Habits]
+Water heating is the second largest consumer of household energy, and EFUS tracks how water use directly impacts utility bills:
+
+1. Shower vs. Bath Consumption:
+- Showers account for the largest single share of household hot water consumption.
+- A standard showerhead uses 12 to 15 liters of water per minute. Replacing it with an eco-aerated showerhead drops consumption to 8 liters per minute without sacrificing water pressure. This simple swap reduces gas water-heating costs and water volumetric charges (for metered bills) by 30%.
+- Restricting shower times to 4 minutes per person saves an average household up to £45 in water bills and £50 in gas heating costs annually.
